@@ -1,0 +1,7 @@
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 579-961-984
+127.0.0.1 - - [21/Oct/2023 11:05:52] "GET / HTTP/1.1" 200 -
